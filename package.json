@@ -93,6 +93,7 @@
     "node-sass": "^4.5.3",
     "normalize-path": "^2.1.1",
     "normalize.css": "^7.0.0",
+    "numeral": "^2.0.6",
     "object-assign": "^4.1.1",
     "object.omit": "^2.0.1",
     "on-finished": "^2.3.0",
